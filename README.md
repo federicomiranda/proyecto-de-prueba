@@ -6,3 +6,5 @@ Este es un proyecto de prueba para el curso de Desarrollo Web. En esta clase est
 - GitHub
 - HTML
 - CSS
+
+Si querés ver este proyecto online hacé click [aquí](https://federicomiranda.github.io/proyecto-de-prueba/)
